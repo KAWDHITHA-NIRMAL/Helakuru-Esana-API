@@ -17,7 +17,7 @@
 
 <br><br>
 
-<a href="News/2026-11-19/124786-When-the-Current-Government-Fails-in-Every-Aspect-.md">
+<a href="News/2026-11-19/124786-When-the-Current-Government-Fails-in-Every-Aspect,-It-Implem.md">
   <img src="https://helakuru.sgp1.cdn.digitaloceanspaces.com/esana/images/lib/dv-chanaka-parliment-new.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
@@ -34,7 +34,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-19/124786-When-the-Current-Government-Fails-in-Every-Aspect-.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-19/124786-When-the-Current-Government-Fails-in-Every-Aspect,-It-Implem.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
