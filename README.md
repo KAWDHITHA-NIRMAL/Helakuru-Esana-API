@@ -17,24 +17,24 @@
 
 <br><br>
 
-<a href="News/2026-11-20/124812-Inflation-Could-Rise-Up-to-9%-Central-Bank-Governor.md">
-  <img src="https://helakuru.sgp1.cdn.digitaloceanspaces.com/esana/images/lib/nandalal-cbsl.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-20/124821-By-Not-Taking-Privileges,-I-Have-Saved-Over-8.8-Million-Rupe.md">
+  <img src="https://helakuru.sgp1.cdn.digitaloceanspaces.com/esana/images/lib/arun-hemachandra.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>උද්ධමනය 9% දක්වා ඉහළ යා හැකියි - මහ බැංකු අධිපති</h2>
-<p><i>Inflation Could Rise Up to 9% - Central Bank Governor</i></p>
+<h2>වරප්‍රසාද ලබා නොගැනීම හරහා, මම ලක්ෂ 88කට වැඩි මුදලක් භාණ්ඩාගාරයට ඉතිරි කරලා දීලා තිබෙනවා - අරුන් හේමචන්ද්‍ර</h2>
+<p><i>By Not Taking Privileges, I Have Saved Over 8.8 Million Rupees for the Treasury - Arun Hemachandra</i></p>
 
 <p>
   <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-20&color=2563eb&style=flat-square" alt="Date" />
-  <img src="https://img.shields.io/static/v1?label=Time&message=13%3A30%3A00&color=16a34a&style=flat-square" alt="Time" />
-  <img src="https://img.shields.io/static/v1?label=Category&message=Incidents&color=ea580c&style=flat-square" alt="Category" />
-  <img src="https://img.shields.io/static/v1?label=Comments&message=88&color=9333ea&style=flat-square" alt="Comments" />
+  <img src="https://img.shields.io/static/v1?label=Time&message=19%3A40%3A00&color=16a34a&style=flat-square" alt="Time" />
+  <img src="https://img.shields.io/static/v1?label=Category&message=Statements&color=ea580c&style=flat-square" alt="Category" />
+  <img src="https://img.shields.io/static/v1?label=Comments&message=70&color=9333ea&style=flat-square" alt="Comments" />
 </p>
 
 <br>
 
 <p>
-  <a href="News/2026-11-20/124812-Inflation-Could-Rise-Up-to-9%-Central-Bank-Governor.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-20/124821-By-Not-Taking-Privileges,-I-Have-Saved-Over-8.8-Million-Rupe.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -44,11 +44,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-20/124796-Two-Arrested-by-Police-for-Killing-a-Pangolin.md"><b>කැබැල්ලෑවෙකු මරා දැමූ දෙදෙනෙකු පොලිස් අත්අඩංගුවට</b></a> <code>13:05:00</code></li>
-    <li><a href="News/2026-11-20/124803-Lifesaving-Medals-Awarded-to-Three-Navy-Personnel-Who-Rescue.md"><b>දිට්වා සුළි කුණාටුවේදී බස් රථයක සිර වූ 69 දෙනෙක් බේරා ගත් නාවික හමුදා සාමාජිකයින් තිදෙනෙකුට ජීවිතාරක්ෂක පදක්කම් පිරිනමයි</b></a> <code>12:50:00</code></li>
-    <li><a href="News/2026-11-20/124807-Deputy-Prime-Minister-of-Thailand-Arrives-in-the-Island-Toda.md"><b>තායිලන්ත නියෝජ්‍ය අගමැති අද දිවයිනට</b></a> <code>12:30:00</code></li>
-    <li><a href="News/2026-11-20/124808-Ranil-Left-the-Economy-Petrified,-Our-President-Has-Made-the.md"><b>රනිල් ආර්ථිකය ගල් කරලා ගියේ, අපේ ජනාධිපතිතුමා රට අවුරුදු 22කින් තරුණ කරලා තියෙන්නේ - ලක්ෂ්මන් නිපුනආරච්චි</b></a> <code>12:10:00</code></li>
-    <li><a href="News/2026-11-20/124809-Air-Quality-in-Several-Areas-Today-Reaches-an-Unhealthy-Leve.md"><b>අද ප්‍රදේශ කිහිපයක වායු ගුණාත්මක තත්ත්වය සෞඛ්‍යයට අහිතකර මට්ටමක</b></a> <code>11:45:00</code></li>
+    <li><a href="News/2026-11-20/124820-The-Man-Who-Calls-Us-Small-People-Did-a-Big-Job-Recently;-He.md"><b>අපිට පොඩි මිනිස්සු කියන මනුස්සයා, ළඟදී ලොකු වැඩක් කරලා. උස පුටු වගයක් බෙදා දීලා තිබුණා - බිමල්</b></a> <code>19:00:00</code></li>
+    <li><a href="News/2026-11-20/124819-The-second-reading-of-the-budget-is-passed-by-a-majority-vot.md"><b>අයවැය දෙවනවර කියවීම වැඩි ඡන්දයෙන් සම්මත වෙයි</b></a> <code>18:59:24</code></li>
+    <li><a href="News/2026-11-20/124813-Go-Beyond-the-Benefits-of-Reforms-and-Join-for-Permanent-Sol.md"><b>ප්‍රතිසංස්කරණවලින් ලැබෙන ප්‍රතිලාභවලට එහා ගොස්, පරිවර්තනයකින් ලැබෙන ස්ථිරසාර විසඳුම් වෙනුවෙන් එකතු වෙන්න - බිමල්</b></a> <code>17:40:00</code></li>
+    <li><a href="News/2026-11-20/124814-Lamborghinis-for-Pelawatte,-Starvation-for-the-People-Kabir-.md"><b>කුසට සා ගිනි, හදට සෝ ගිනි, පැලවත්තට ලැම්බෝගිනි, ජනතාවට බඩගිනි - කබීර් හෂීම්</b></a> <code>17:00:00</code></li>
+    <li><a href="News/2026-11-20/124818-Notification-that-a-Detailed-Report-Regarding-Garbage-Burnin.md"><b>යාපනය ප්‍රදේශයේ කැලිකසල දහනය කිරීම පිළිබඳව සවිස්තර වාර්තාවක් ඉදිරියේදී අධිකරණයට ඉදිරිපත් කරන බවට දැනුම් දීමක්</b></a> <code>16:45:00</code></li>
   </ul>
 </details>
 
