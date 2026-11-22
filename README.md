@@ -17,24 +17,24 @@
 
 <br><br>
 
-<a href="News/2026-11-21/124827-Harmful-Chemicals-Found-in-13-Out-of-16-Boondi-Samples-Obtai.md">
-  <img src="https://helakuru.sgp1.cdn.digitaloceanspaces.com/esana/images/lib/boondi-1.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-22/124833-Cyber-attack-on-the-official-website-of-the-Department-of-Mo.md">
+  <img src="https://helakuru.sgp1.cdn.digitaloceanspaces.com/esana/images/lib/cyber1-archived.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>වෙළඳපොළෙන් ලබාගත් බූන්දි සාම්පල 16කින් 13කම හානිකර රසායනික ද්‍රව්‍ය - පාරිභෝගික කටයුතු පිළිබඳ අධිකාරිය</h2>
-<p><i>Harmful Chemicals Found in 13 Out of 16 Boondi Samples Obtained from the Market - Consumer Affairs Authority</i></p>
+<h2>මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ නිල වෙබ් අඩවියට සයිබර් ප්‍රහාරයක්</h2>
+<p><i>Cyber attack on the official website of the Department of Motor Traffic</i></p>
 
 <p>
-  <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-21&color=2563eb&style=flat-square" alt="Date" />
-  <img src="https://img.shields.io/static/v1?label=Time&message=12%3A15%3A00&color=16a34a&style=flat-square" alt="Time" />
+  <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-22&color=2563eb&style=flat-square" alt="Date" />
+  <img src="https://img.shields.io/static/v1?label=Time&message=11%3A32%3A52&color=16a34a&style=flat-square" alt="Time" />
   <img src="https://img.shields.io/static/v1?label=Category&message=Incidents&color=ea580c&style=flat-square" alt="Category" />
-  <img src="https://img.shields.io/static/v1?label=Comments&message=140&color=9333ea&style=flat-square" alt="Comments" />
+  <img src="https://img.shields.io/static/v1?label=Comments&message=52&color=9333ea&style=flat-square" alt="Comments" />
 </p>
 
 <br>
 
 <p>
-  <a href="News/2026-11-21/124827-Harmful-Chemicals-Found-in-13-Out-of-16-Boondi-Samples-Obtai.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-22/124833-Cyber-attack-on-the-official-website-of-the-Department-of-Mo.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -44,11 +44,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-21/124828-Fire-breaks-out-at-a-shop-in-Pannipitiya,-Depanama.md"><b>දෙපානම පන්නිපිටිය ප්‍රදේශයේ වෙළෙඳසැලක ගින්නක්</b></a> <code>11:15:47</code></li>
-    <li><a href="News/2026-11-21/124826-Speaker-Presents-the-Supreme-Court's-Opinion-on-the-Preventi.md"><b>සංවිධානාත්මක අපරාධ වැළැක්වීමේ පනත් කෙටුම්පත ගැන ශ්‍රේෂ්ඨාධිකරණයේ මතය කතානායකවරයා විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කරයි</b></a> <code>10:35:00</code></li>
-    <li><a href="News/2026-11-21/124825-Teachers-and-Principals-to-Stage-a-Strike-on-November-30.md"><b>ගුරුවරු සහ විදුහල්පතිවරු නොවැම්බර් 30 වැනිදා වැඩ වර්ජනයක</b></a> <code>08:30:00</code></li>
-    <li><a href="News/2026-11-21/124824-Petition-Filed-in-the-Court-of-Appeal-Seeking-Bail-for-Pilla.md"><b>පිල්ලෙයාන්ට ඇප ලබාදෙන ලෙස ඉල්ලා අභියාචනාධිකරණයට පෙත්සමක්</b></a> <code>07:45:00</code></li>
-    <li><a href="News/2026-11-21/124823-Committee-Stage-Debate-on-the-Third-Reading-of-the-Budget-Co.md"><b>අයවැය තුන්වන වර කියවීමේ කාරක සභා අවස්ථාවේ විවාදය අද සිට ආරම්භ වෙයි</b></a> <code>07:05:00</code></li>
+    <li><a href="News/2026-11-22/124832-The-Rs.-110-million-spent-on-the-maintenance-of-former-presi.md"><b>හිටපු ජනාධිපතිවරුන් නඩත්තුව වෙනුවෙන් වැය කළ රු. මිලියන 110ක මුදල රු. මිලියන 4.39 දක්වා අඩු කර තිබෙනවා - නලින්ද ජයතිස්ස</b></a> <code>11:10:12</code></li>
+    <li><a href="News/2026-11-22/124831-Suspect-arrested-in-connection-with-incident-near-Borella-Ce.md"><b>බොරැල්ල කනත්ත වටරවුම අසල සිදුවීම සම්බන්ධයෙන් සැකකරුවෙකු අත්අඩංගුවට</b></a> <code>09:24:18</code></li>
+    <li><a href="News/2026-11-22/124830-6-DIGs-transferred-with-immediate-effect.md"><b>නියෝජ්‍ය පොලිස්පතිවරුන් 06 දෙනෙකුට වහාම ක්‍රියාත්මක වන පරිදි ස්ථාන මාරුවීම් ලබා දෙයි</b></a> <code>08:46:02</code></li>
+    <li><a href="News/2026-11-22/124829-Today's-weather-forecast.md"><b>අද කාලගුණ නිවේදනය</b></a> <code>07:02:11</code></li>
+    <li><a href="News/2026-11-21/124827-Harmful-Chemicals-Found-in-13-Out-of-16-Boondi-Samples-Obtai.md"><b>වෙළඳපොළෙන් ලබාගත් බූන්දි සාම්පල 16කින් 13කම හානිකර රසායනික ද්‍රව්‍ය - පාරිභෝගික කටයුතු පිළිබඳ අධිකාරිය</b></a> <code>12:15:00</code></li>
   </ul>
 </details>
 
