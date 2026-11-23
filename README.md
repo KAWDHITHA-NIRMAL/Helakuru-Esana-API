@@ -17,24 +17,24 @@
 
 <br><br>
 
-<a href="News/2026-11-23/124855-Order-to-convene-trial-against-Duminda-Dissanayake-and-two-o.md">
-  <img src="https://helakuru.sgp1.cdn.digitaloceanspaces.com/esana/images/lib/court-2[1].jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-23/124867-Fire-breaks-out-in-an-apartment-complex-in-Borella.md">
+  <img src="https://helakuru.sgp1.cdn.digitaloceanspaces.com/esana/images/lib/fire-n[1].jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>රන් ආලේපිත ගිනි අවියට අදාළ දුමින්ද දිසානායකට එරෙහි නඩු විභාගය ජනවාරි 29 කැඳවීමට නියෝග</h2>
-<p><i>Order to convene trial against Duminda Dissanayake and two other defendants in connection with gold-plated firearm on January 29</i></p>
+<h2>බොරැල්ලේ මහල් නිවාස සංකීර්ණයක ගින්නක් හට ගනියි</h2>
+<p><i>Fire breaks out in an apartment complex in Borella</i></p>
 
 <p>
   <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-23&color=2563eb&style=flat-square" alt="Date" />
-  <img src="https://img.shields.io/static/v1?label=Time&message=14%3A30%3A07&color=16a34a&style=flat-square" alt="Time" />
+  <img src="https://img.shields.io/static/v1?label=Time&message=21%3A31%3A10&color=16a34a&style=flat-square" alt="Time" />
   <img src="https://img.shields.io/static/v1?label=Category&message=Incidents&color=ea580c&style=flat-square" alt="Category" />
-  <img src="https://img.shields.io/static/v1?label=Comments&message=13&color=9333ea&style=flat-square" alt="Comments" />
+  <img src="https://img.shields.io/static/v1?label=Comments&message=195&color=9333ea&style=flat-square" alt="Comments" />
 </p>
 
 <br>
 
 <p>
-  <a href="News/2026-11-23/124855-Order-to-convene-trial-against-Duminda-Dissanayake-and-two-o.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-23/124867-Fire-breaks-out-in-an-apartment-complex-in-Borella.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -44,11 +44,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-23/124853-Formalizing-Public-Expenditure-Management-and-Planning-Is-Es.md"><b>2027 සංවර්ධන ඉලක්ක සපුරා ගැනීමට, රාජ්‍ය වියදම් කළමනාකරණය සහ සැලසුම්කරණය විධිමත් කිරීම අත්‍යවශ්‍යයි - ජනාධිපති ලේකම්</b></a> <code>14:25:00</code></li>
-    <li><a href="News/2026-11-23/124848-The-Government-Has-Granted-the-Maximum-Possible-Relief-to-Ev.md"><b>ආණ්ඩුවට ඇති උපරිම හැකියාවෙන් රටේ වැඩ කරන ජනතාව ඇතුළු සියලු දෙනාට ලබාදිය හැකි උපරිම සහන මෙවර අයවැය මඟින් ලබා දී තිබෙනවා - එච්.එම්.එස්.බී. මැදිවත්ත</b></a> <code>13:55:00</code></li>
-    <li><a href="News/2026-11-23/124850-Construction-of-11-New-Houses-Commences-in-Badulla-Under-the.md"><b>ඉන්දියානු නිවාස ව්‍යාපෘතියේ සිව්වන අදියර යටතේ බදුල්ලේ නව නිවාස 11 ක ඉදිකිරීම් ඇරඹෙයි</b></a> <code>13:35:00</code></li>
-    <li><a href="News/2026-11-23/124852-Pillayan-Ordered-to-Be-Remanded-Again.md"><b>පිල්ලයාන් යළි රිමාන්ඩ් කිරීමට නියෝග</b></a> <code>13:15:00</code></li>
-    <li><a href="News/2026-11-23/124851-Colombo-Kandy-road-to-be-closed-from-11.00-tonight-at-Lower-.md"><b>කොළඹ - මහනුවර මාර්ගය අද රාත්‍රී 11.00 සිට පහළ කඩුගන්නාවෙන් වසා දැමේ</b></a> <code>13:00:00</code></li>
+    <li><a href="News/2026-11-23/124866-Jensen-Huang-reappointed-as-CEO-of-Nvidia.md"><b>Jensen Huang නැවතත් Nvidia සමාගමේ CEO තනතුරට පත් කරයි</b></a> <code>20:33:05</code></li>
+    <li><a href="News/2026-11-23/124865-Egg-producers'-associations-agree-not-to-increase-egg-prices.md"><b>උත්සව සමයේ බිත්තර මිල ඉහළ නොදැමීමට බිත්තර නිෂ්පාදන සංගම් එකඟ වෙයි - වෙළෙඳ අමාත්‍යාංශය</b></a> <code>19:35:00</code></li>
+    <li><a href="News/2026-11-23/124859-Trade-Unions-Can-Protest,-But-They-Must-Consider-How-Ethical.md"><b>වෘත්තීය සමිතිවලට විරෝධතා දක්වන්න පුළුවන්, හැබැයි ඒවා කොච්චර සදාචාරාත්මක ද කියලා කල්පනා කරන්න ඕනේ - මහින්ද ජයසිංහ</b></a> <code>19:00:00</code></li>
+    <li><a href="News/2026-11-23/124863-Zimbabwean-preacher-Uebert-Angel-arrested.md"><b>සිම්බාබ්වේ දේශකයෙකු වන Uebert Angel අත්අඩංගුවට</b></a> <code>18:58:22</code></li>
+    <li><a href="News/2026-11-23/124864-Aruni-Ranaraja-to-be-appointed-as-new-Ambassador-to-the-Unit.md"><b>අරුණි රණරාජා අමෙරිකා එක්සත් ජනපදයේ නව තානාපතිනිය ලෙස පත් කිරීමට නියමිතයි - විදේශ කටයුතු ඇමති</b></a> <code>18:54:16</code></li>
   </ul>
 </details>
 
