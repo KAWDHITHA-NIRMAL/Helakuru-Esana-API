@@ -17,24 +17,24 @@
 
 <br><br>
 
-<a href="News/2026-11-23/124835-Today's-weather-forecast.md">
-  <img src="https://helakuru.sgp1.cdn.digitaloceanspaces.com/esana/images/lib/weather-thumb-new-1[1].jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-23/124855-Order-to-convene-trial-against-Duminda-Dissanayake-and-two-o.md">
+  <img src="https://helakuru.sgp1.cdn.digitaloceanspaces.com/esana/images/lib/court-2[1].jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>අද කාලගුණ නිවේදනය</h2>
-<p><i>Today's weather forecast</i></p>
+<h2>රන් ආලේපිත ගිනි අවියට අදාළ දුමින්ද දිසානායකට එරෙහි නඩු විභාගය ජනවාරි 29 කැඳවීමට නියෝග</h2>
+<p><i>Order to convene trial against Duminda Dissanayake and two other defendants in connection with gold-plated firearm on January 29</i></p>
 
 <p>
   <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-23&color=2563eb&style=flat-square" alt="Date" />
-  <img src="https://img.shields.io/static/v1?label=Time&message=06%3A25%3A00&color=16a34a&style=flat-square" alt="Time" />
+  <img src="https://img.shields.io/static/v1?label=Time&message=14%3A30%3A07&color=16a34a&style=flat-square" alt="Time" />
   <img src="https://img.shields.io/static/v1?label=Category&message=Incidents&color=ea580c&style=flat-square" alt="Category" />
-  <img src="https://img.shields.io/static/v1?label=Comments&message=3&color=9333ea&style=flat-square" alt="Comments" />
+  <img src="https://img.shields.io/static/v1?label=Comments&message=13&color=9333ea&style=flat-square" alt="Comments" />
 </p>
 
 <br>
 
 <p>
-  <a href="News/2026-11-23/124835-Today's-weather-forecast.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-23/124855-Order-to-convene-trial-against-Duminda-Dissanayake-and-two-o.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -44,11 +44,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-22/124834-IMF-7th-Review-of-Sri-Lanka-to-be-held-on-December-2nd.md"><b>ශ්‍රී ලංකාවට අදාළ IMF 7 වැනි සමාලෝචනය ඇගයීමට ලක් කිරීම දෙසැම්බර් 2 වැනිදා සිදු කිරීමට තීරණය කෙරේ</b></a> <code>19:15:47</code></li>
-    <li><a href="News/2026-11-22/124833-Cyber-attack-on-the-official-website-of-the-Department-of-Mo.md"><b>මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ නිල වෙබ් අඩවියට සයිබර් ප්‍රහාරයක්</b></a> <code>11:32:52</code></li>
-    <li><a href="News/2026-11-22/124832-The-Rs.-110-million-spent-on-the-maintenance-of-former-presi.md"><b>හිටපු ජනාධිපතිවරුන් නඩත්තුව වෙනුවෙන් වැය කළ රු. මිලියන 110ක මුදල රු. මිලියන 4.39 දක්වා අඩු කර තිබෙනවා - නලින්ද ජයතිස්ස</b></a> <code>11:10:12</code></li>
-    <li><a href="News/2026-11-22/124831-Suspect-arrested-in-connection-with-incident-near-Borella-Ce.md"><b>බොරැල්ල කනත්ත වටරවුම අසල සිදුවීම සම්බන්ධයෙන් සැකකරුවෙකු අත්අඩංගුවට</b></a> <code>09:24:18</code></li>
-    <li><a href="News/2026-11-22/124830-6-DIGs-transferred-with-immediate-effect.md"><b>නියෝජ්‍ය පොලිස්පතිවරුන් 06 දෙනෙකුට වහාම ක්‍රියාත්මක වන පරිදි ස්ථාන මාරුවීම් ලබා දෙයි</b></a> <code>08:46:02</code></li>
+    <li><a href="News/2026-11-23/124853-Formalizing-Public-Expenditure-Management-and-Planning-Is-Es.md"><b>2027 සංවර්ධන ඉලක්ක සපුරා ගැනීමට, රාජ්‍ය වියදම් කළමනාකරණය සහ සැලසුම්කරණය විධිමත් කිරීම අත්‍යවශ්‍යයි - ජනාධිපති ලේකම්</b></a> <code>14:25:00</code></li>
+    <li><a href="News/2026-11-23/124848-The-Government-Has-Granted-the-Maximum-Possible-Relief-to-Ev.md"><b>ආණ්ඩුවට ඇති උපරිම හැකියාවෙන් රටේ වැඩ කරන ජනතාව ඇතුළු සියලු දෙනාට ලබාදිය හැකි උපරිම සහන මෙවර අයවැය මඟින් ලබා දී තිබෙනවා - එච්.එම්.එස්.බී. මැදිවත්ත</b></a> <code>13:55:00</code></li>
+    <li><a href="News/2026-11-23/124850-Construction-of-11-New-Houses-Commences-in-Badulla-Under-the.md"><b>ඉන්දියානු නිවාස ව්‍යාපෘතියේ සිව්වන අදියර යටතේ බදුල්ලේ නව නිවාස 11 ක ඉදිකිරීම් ඇරඹෙයි</b></a> <code>13:35:00</code></li>
+    <li><a href="News/2026-11-23/124852-Pillayan-Ordered-to-Be-Remanded-Again.md"><b>පිල්ලයාන් යළි රිමාන්ඩ් කිරීමට නියෝග</b></a> <code>13:15:00</code></li>
+    <li><a href="News/2026-11-23/124851-Colombo-Kandy-road-to-be-closed-from-11.00-tonight-at-Lower-.md"><b>කොළඹ - මහනුවර මාර්ගය අද රාත්‍රී 11.00 සිට පහළ කඩුගන්නාවෙන් වසා දැමේ</b></a> <code>13:00:00</code></li>
   </ul>
 </details>
 
