@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-24&color=2563eb&style=flat-square" alt="Date" />
   <img src="https://img.shields.io/static/v1?label=Time&message=19%3A06%3A14&color=16a34a&style=flat-square" alt="Time" />
   <img src="https://img.shields.io/static/v1?label=Category&message=Incidents&color=ea580c&style=flat-square" alt="Category" />
-  <img src="https://img.shields.io/static/v1?label=Comments&message=5&color=9333ea&style=flat-square" alt="Comments" />
+  <img src="https://img.shields.io/static/v1?label=Comments&message=11&color=9333ea&style=flat-square" alt="Comments" />
 </p>
 
 <br>
