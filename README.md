@@ -17,24 +17,24 @@
 
 <br><br>
 
-<a href="News/2026-11-25/124896-Warning-Regarding-Severe-Lightning-for-23-Districts.md">
-  <img src="https://helakuru.sgp1.cdn.digitaloceanspaces.com/esana/images/lib/lightning-11.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-25/124912-Notice-of-the-expected-opening-of-two-spill-gates-at-the-Tha.md">
+  <img src="https://helakuru.sgp1.cdn.digitaloceanspaces.com/esana/images/lib/extreme-weather-new.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>දිස්ත්‍රික්ක 23කට ප්‍රබල අකුණු සම්බන්ධයෙන් අනතුරු ඇඟවීමක්</h2>
-<p><i>Warning Regarding Severe Lightning for 23 Districts</i></p>
+<h2>තබ්බෝව ජලාශයේ වාන් දොරටු දෙකක් විවෘත කිරීමට අපේක්ෂා කරන බවට දැනුම්දීමක්</h2>
+<p><i>Notice of the expected opening of two spill gates at the Thabbowa Reservoir</i></p>
 
 <p>
   <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-25&color=2563eb&style=flat-square" alt="Date" />
-  <img src="https://img.shields.io/static/v1?label=Time&message=14%3A50%3A00&color=16a34a&style=flat-square" alt="Time" />
-  <img src="https://img.shields.io/static/v1?label=Category&message=Announcements&color=ea580c&style=flat-square" alt="Category" />
+  <img src="https://img.shields.io/static/v1?label=Time&message=21%3A28%3A49&color=16a34a&style=flat-square" alt="Time" />
+  <img src="https://img.shields.io/static/v1?label=Category&message=Incidents&color=ea580c&style=flat-square" alt="Category" />
   <img src="https://img.shields.io/static/v1?label=Comments&message=20&color=9333ea&style=flat-square" alt="Comments" />
 </p>
 
 <br>
 
 <p>
-  <a href="News/2026-11-25/124896-Warning-Regarding-Severe-Lightning-for-23-Districts.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-25/124912-Notice-of-the-expected-opening-of-two-spill-gates-at-the-Tha.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -44,11 +44,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-25/124897-Court-Rejects-Request-to-Temporarily-Lift-Gotabaya-Rajapaksa.md"><b>ගෝඨාභය රාජපක්ෂගේ විදෙස් ගමන් තහනම තාවකාලිකව ඉවත් කිරීමේ ඉල්ලීම අධිකරණය විසින් ප්‍රතික්ෂේප කරයි</b></a> <code>14:29:10</code></li>
-    <li><a href="News/2026-11-25/124890-Grand-Finals-of-the-2026-National-Hackathon-Competition,-hac.md"><b>2026 ජාතික Hackathon තරගාවලිය, hackX 11.0 සහ hackX Jr. 9.0 හි අවසන් මහා තරග නිමාවට පත්වෙයි</b></a> <code>14:09:40</code></li>
-    <li><a href="News/2026-11-25/124895-Gotabaya-Rajapaksa-arrives-at-the-Fort-Magistrate's-Court.md"><b>ගෝඨාභය රාජපක්ෂ කොටුව මහේස්ත්‍රාත් අධිකරණයට පැමිණෙයි</b></a> <code>13:50:19</code></li>
-    <li><a href="News/2026-11-25/124894-Sri-Lanka-wins-Women's-Emerging-Nations-Trophy-2026.md"><b>Women’s Emerging Nations Trophy 2026 ශූරතාව ශ්‍රී ලංකාවට</b></a> <code>13:30:58</code></li>
-    <li><a href="News/2026-11-25/124891-Cyber-attack-on-US-CIA-intelligence-agency.md"><b>අමෙරිකාවේ CIA බුද්ධි ඒජන්සියට සයිබර් ප්‍රහාරයක්</b></a> <code>13:04:28</code></li>
+    <li><a href="News/2026-11-25/124911-Facts-revealed-in-court-that-there-was-a-close-relationship-.md"><b>අසාද් මවුලානා සහ සුරේෂ් සලේ අතර සමීප සබඳතාවයක් තිබූ බවට අධිකරණයේදී කරුණු අනාවරණය වෙයි</b></a> <code>19:45:00</code></li>
+    <li><a href="News/2026-11-25/124898-Although-Media-Must-Exercise-Its-Rights,-They-Must-Be-Subjec.md"><b>ජනමාධ්‍ය විසින් සිය අයිතිවාසිකම් පාවිච්චි කළ යුතු වුවත්, එය මූලික නීතියට යටත් විය යුතුයි - කෞෂල්‍යා ආරියරත්න</b></a> <code>19:40:00</code></li>
+    <li><a href="News/2026-11-25/124910-Full-details-of-what-happened-in-court-in-Gotabaya-Rajapaksa.md"><b>ගෝඨාභය රාජපක්ෂගේ නඩුවේ අධිකරණය හමු‍වේ සිදුවූ සම්පූර්ණ කරුණු දැක්වීම</b></a> <code>19:29:52</code></li>
+    <li><a href="News/2026-11-25/124899-We-Fought-on-the-Streets-During-a-Time-When-Salaries-Were-No.md"><b>වැටුප් වැඩි නොකරන, දීමනා ලබා නොදෙන කාලෙක අපි පාරේ සටන් කළේ; අරගලයකින් තොරව ප්‍රශ්න විසඳන ආණ්ඩුවක් දැන් නිර්මාණය කරලා තියෙනවා - චන්දන සූරියආරච්චි</b></a> <code>19:10:00</code></li>
+    <li><a href="News/2026-11-25/124905-Those-Who-Come-to-the-Streets-Are-the-Same-Hundred-or-Two-Hu.md"><b>පාරට එන්නේ හැමදාම එන සීය දෙසීය තමා, ඒ අය රෝහල්වල වැඩ කරන අයත් නෙමෙයි, ඒ නිසා රෝහල්වල කටයුතුවලට බාධාවක් නෑ - සෞඛ්‍ය නියෝජ්‍ය ඇමති</b></a> <code>18:40:00</code></li>
   </ul>
 </details>
 
