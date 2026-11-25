@@ -17,24 +17,24 @@
 
 <br><br>
 
-<a href="News/2026-11-24/124875-Suryavanshi-scores-a-double-century,-setting-many-records.md">
-  <img src="https://helakuru.sgp1.cdn.digitaloceanspaces.com/esana/images/lib/suryavanshi-i.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-25/124896-Warning-Regarding-Severe-Lightning-for-23-Districts.md">
+  <img src="https://helakuru.sgp1.cdn.digitaloceanspaces.com/esana/images/lib/lightning-11.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>වාර්තා රැසක් තබමින් සූර්යවංශීගෙන් ද්විත්ව ශතකයක්</h2>
-<p><i>Suryavanshi scores a double century, setting many records</i></p>
+<h2>දිස්ත්‍රික්ක 23කට ප්‍රබල අකුණු සම්බන්ධයෙන් අනතුරු ඇඟවීමක්</h2>
+<p><i>Warning Regarding Severe Lightning for 23 Districts</i></p>
 
 <p>
-  <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-24&color=2563eb&style=flat-square" alt="Date" />
-  <img src="https://img.shields.io/static/v1?label=Time&message=19%3A06%3A14&color=16a34a&style=flat-square" alt="Time" />
-  <img src="https://img.shields.io/static/v1?label=Category&message=Incidents&color=ea580c&style=flat-square" alt="Category" />
-  <img src="https://img.shields.io/static/v1?label=Comments&message=11&color=9333ea&style=flat-square" alt="Comments" />
+  <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-25&color=2563eb&style=flat-square" alt="Date" />
+  <img src="https://img.shields.io/static/v1?label=Time&message=14%3A50%3A00&color=16a34a&style=flat-square" alt="Time" />
+  <img src="https://img.shields.io/static/v1?label=Category&message=Announcements&color=ea580c&style=flat-square" alt="Category" />
+  <img src="https://img.shields.io/static/v1?label=Comments&message=20&color=9333ea&style=flat-square" alt="Comments" />
 </p>
 
 <br>
 
 <p>
-  <a href="News/2026-11-24/124875-Suryavanshi-scores-a-double-century,-setting-many-records.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-25/124896-Warning-Regarding-Severe-Lightning-for-23-Districts.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -44,11 +44,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-24/124874-There-is-no-tsunami-risk-to-Sri-Lanka-from-the-Indian-Ocean-.md"><b>ඉන්දියානු සාගරයේ භූ චලනයෙන් ලංකාවට සුනාමි අවදානමක් නැහැ - සුනාමි පූර්ව අනතුරු ඇඟවීමේ මධ්‍යස්ථානය</b></a> <code>18:05:56</code></li>
-    <li><a href="News/2026-11-24/124873-Central-Postal-Exchange's-revenue-exceeds-4-billion-for-the-.md"><b>ඉතිහාසයේ පළමු වරට මධ්‍යම තැපැල් හුවමාරුවේ ආදායම රුපියල් බිලියන 04 ඉක්මවයි</b></a> <code>16:36:37</code></li>
-    <li><a href="News/2026-11-24/124872-Attention-is-focused-on-further-advancing-the-free-trade-agr.md"><b>තායිලන්ත නියෝජ්‍ය අග්‍රාමාත්‍ය සහ විදේශ කටයුතු අමාත්‍යවරයා අග්‍රාමාත්‍යවරිය හමුවෙයි</b></a> <code>12:48:48</code></li>
-    <li><a href="News/2026-11-24/124871-Closed-Kadugannawa-road-reopens-to-traffic.md"><b>වසා දැමුණු කඩුගන්නාව මාර්ගය යළි ගමනාගමනයට විවෘත වෙයි</b></a> <code>09:30:51</code></li>
-    <li><a href="News/2026-11-24/124870-Notice-regarding-the-provision-of-shoe-gift-certificates-to-.md"><b>2027 වර්ෂය සඳහා පාසල් සිසුන්ට පාවහන් තිළිණපත් ලබා දීම සම්බන්ධයෙන් දැනුම්දීමක්</b></a> <code>07:50:00</code></li>
+    <li><a href="News/2026-11-25/124897-Court-Rejects-Request-to-Temporarily-Lift-Gotabaya-Rajapaksa.md"><b>ගෝඨාභය රාජපක්ෂගේ විදෙස් ගමන් තහනම තාවකාලිකව ඉවත් කිරීමේ ඉල්ලීම අධිකරණය විසින් ප්‍රතික්ෂේප කරයි</b></a> <code>14:29:10</code></li>
+    <li><a href="News/2026-11-25/124890-Grand-Finals-of-the-2026-National-Hackathon-Competition,-hac.md"><b>2026 ජාතික Hackathon තරගාවලිය, hackX 11.0 සහ hackX Jr. 9.0 හි අවසන් මහා තරග නිමාවට පත්වෙයි</b></a> <code>14:09:40</code></li>
+    <li><a href="News/2026-11-25/124895-Gotabaya-Rajapaksa-arrives-at-the-Fort-Magistrate's-Court.md"><b>ගෝඨාභය රාජපක්ෂ කොටුව මහේස්ත්‍රාත් අධිකරණයට පැමිණෙයි</b></a> <code>13:50:19</code></li>
+    <li><a href="News/2026-11-25/124894-Sri-Lanka-wins-Women's-Emerging-Nations-Trophy-2026.md"><b>Women’s Emerging Nations Trophy 2026 ශූරතාව ශ්‍රී ලංකාවට</b></a> <code>13:30:58</code></li>
+    <li><a href="News/2026-11-25/124891-Cyber-attack-on-US-CIA-intelligence-agency.md"><b>අමෙරිකාවේ CIA බුද්ධි ඒජන්සියට සයිබර් ප්‍රහාරයක්</b></a> <code>13:04:28</code></li>
   </ul>
 </details>
 
