@@ -17,24 +17,24 @@
 
 <br><br>
 
-<a href="News/2026-11-26/124940-Namal-Ayya-Will-Come-Out-More-Mature-Than-Before-Rohitha-Raj.md">
-  <img src="https://helakuru.sgp1.cdn.digitaloceanspaces.com/esana/images/lib/rohitha-rajapaksha-media-i.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-26/124949-SL-vs-IND-Sri-Lanka-A-win-by-8-wickets.md">
+  <img src="https://helakuru.sgp1.cdn.digitaloceanspaces.com/esana/images/lib/sl-vs-ind-A.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>නාමල් අයියා හිටියට වඩා පරිණත වෙලා එළියට ඒවි - රෝහිත රාජපක්ෂ</h2>
-<p><i>Namal Ayya Will Come Out More Mature Than Before - Rohitha Rajapaksa</i></p>
+<h2>SL vs IND - ශ්‍රී ලංකා A කණ්ඩායමට කඩුලු 8 ක ජයක්</h2>
+<p><i>SL vs IND - Sri Lanka A win by 8 wickets</i></p>
 
 <p>
   <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-26&color=2563eb&style=flat-square" alt="Date" />
-  <img src="https://img.shields.io/static/v1?label=Time&message=16%3A35%3A00&color=16a34a&style=flat-square" alt="Time" />
-  <img src="https://img.shields.io/static/v1?label=Category&message=Statements&color=ea580c&style=flat-square" alt="Category" />
-  <img src="https://img.shields.io/static/v1?label=Comments&message=82&color=9333ea&style=flat-square" alt="Comments" />
+  <img src="https://img.shields.io/static/v1?label=Time&message=22%3A43%3A28&color=16a34a&style=flat-square" alt="Time" />
+  <img src="https://img.shields.io/static/v1?label=Category&message=Incidents&color=ea580c&style=flat-square" alt="Category" />
+  <img src="https://img.shields.io/static/v1?label=Comments&message=106&color=9333ea&style=flat-square" alt="Comments" />
 </p>
 
 <br>
 
 <p>
-  <a href="News/2026-11-26/124940-Namal-Ayya-Will-Come-Out-More-Mature-Than-Before-Rohitha-Raj.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-26/124949-SL-vs-IND-Sri-Lanka-A-win-by-8-wickets.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -44,11 +44,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-26/124938-Steps-Have-Been-Taken-to-Enter-Information-on-Cases-Being-He.md"><b>මහාධිකරණවල විභාග වෙමින් පවතින නඩු තොරතුරු වෙබ් අඩවියකට ඇතුළත් කිරීමට පියවර ගෙන තිබෙනවා - අධිකරණ ඇමති</b></a> <code>16:05:00</code></li>
-    <li><a href="News/2026-11-26/124930-Building-an-Innovation-Economy-Must-Begin-Right-in-the-Schoo.md"><b>නවෝත්පාදන ආර්ථිකයක් ගොඩනැඟීම පාසල් පන්ති කාමරයෙන්ම ඇරඹිය යුතුයි - අගමැති</b></a> <code>15:40:00</code></li>
-    <li><a href="News/2026-11-26/124931-New-Filling-Station-Constructed,-Providing-a-Solution-to-the.md"><b>ඩෙල්ෆ්ට් දූපතේ ජනතාවගේ ඉන්ධන ගැටලුවට විසඳුම් ලබා දෙමින් නව ඉන්ධන පිරවුම්හලක් ඉදි කරයි</b></a> <code>15:20:00</code></li>
-    <li><a href="News/2026-11-26/124936-Rohitha-Rajapaksa-Leaves-FCID.md"><b>රෝහිත රාජපක්ෂ FCIDයෙන් පිටව යයි</b></a> <code>14:55:00</code></li>
-    <li><a href="News/2026-11-26/124933-Further-Evidence-Hearing-in-Case-Against-Yoshitha-Rajapaksa-.md"><b>යෝෂිත රාජපක්ෂට එරෙහි නඩුවක වැඩිදුර සාක්ෂි විභාගය දෙසැම්බර් 03 වැනිදා කැඳවීමට නියෝග</b></a> <code>14:41:07</code></li>
+    <li><a href="News/2026-11-26/124948-Asia-Cup-Rising-Stars-SL-vs-IND-Lasith-Kruspulle-scores-a-ce.md"><b>Asia Cup Rising Stars SL vs IND - ලසිත් කෘස්පුල්ලේගෙන් ශතකයක්</b></a> <code>22:09:17</code></li>
+    <li><a href="News/2026-11-26/124947-Asia-Cup-Rising-Stars-SL-vs-IND-Sri-Lanka-Team-1851-(25).md"><b>Asia Cup Rising Stars SL vs IND - ශ්‍රී ලංකා කණ්ඩායම - 185/1 (25)</b></a> <code>21:28:45</code></li>
+    <li><a href="News/2026-11-26/124946-Asia-Cup-Rising-Stars-SL-vs-IND-Sineeth-Jayawardene-hits-a-c.md"><b>Asia Cup Rising Stars SL vs IND - සිනෙත් ජයවර්ධනගෙන් පන්දු 62 කින් ශතකයක්</b></a> <code>21:09:48</code></li>
+    <li><a href="News/2026-11-26/124945-Asia-Cup-Rising-Stars-SL-vs-IND-Sri-Lanka-Scoreboard-after-1.md"><b>Asia Cup Rising Stars SL vs IND - පන්දුවාර 12 ක් අවසානයේ ශ්‍රී ලංකා ලකුණු පුවරුව</b></a> <code>20:38:18</code></li>
+    <li><a href="News/2026-11-26/124934-Misunderstanding-Can-Only-Be-Eliminated-Through-Understandin.md"><b>අනවබෝධය නැති කළ හැක්කේ අවබෝධය හරහා පමණයි, රජය විසින් සිදු කරන්නේ එය තමයි - ප්‍රසන්න ගුණසේන</b></a> <code>19:30:00</code></li>
   </ul>
 </details>
 
