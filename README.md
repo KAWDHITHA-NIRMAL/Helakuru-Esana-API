@@ -17,24 +17,24 @@
 
 <br><br>
 
-<a href="News/2026-11-26/124913-Today's-weather-forecast.md">
-  <img src="https://helakuru.sgp1.cdn.digitaloceanspaces.com/esana/images/lib/weather-thumb-new-1[1].jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-26/124940-Namal-Ayya-Will-Come-Out-More-Mature-Than-Before-Rohitha-Raj.md">
+  <img src="https://helakuru.sgp1.cdn.digitaloceanspaces.com/esana/images/lib/rohitha-rajapaksha-media-i.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>අද කාලගුණ නිවේදනය</h2>
-<p><i>Today's weather forecast</i></p>
+<h2>නාමල් අයියා හිටියට වඩා පරිණත වෙලා එළියට ඒවි - රෝහිත රාජපක්ෂ</h2>
+<p><i>Namal Ayya Will Come Out More Mature Than Before - Rohitha Rajapaksa</i></p>
 
 <p>
   <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-26&color=2563eb&style=flat-square" alt="Date" />
-  <img src="https://img.shields.io/static/v1?label=Time&message=06%3A25%3A00&color=16a34a&style=flat-square" alt="Time" />
-  <img src="https://img.shields.io/static/v1?label=Category&message=Incidents&color=ea580c&style=flat-square" alt="Category" />
-  <img src="https://img.shields.io/static/v1?label=Comments&message=28&color=9333ea&style=flat-square" alt="Comments" />
+  <img src="https://img.shields.io/static/v1?label=Time&message=16%3A35%3A00&color=16a34a&style=flat-square" alt="Time" />
+  <img src="https://img.shields.io/static/v1?label=Category&message=Statements&color=ea580c&style=flat-square" alt="Category" />
+  <img src="https://img.shields.io/static/v1?label=Comments&message=82&color=9333ea&style=flat-square" alt="Comments" />
 </p>
 
 <br>
 
 <p>
-  <a href="News/2026-11-26/124913-Today's-weather-forecast.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-26/124940-Namal-Ayya-Will-Come-Out-More-Mature-Than-Before-Rohitha-Raj.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -44,11 +44,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-25/124912-Notice-of-the-expected-opening-of-two-spill-gates-at-the-Tha.md"><b>තබ්බෝව ජලාශයේ වාන් දොරටු දෙකක් විවෘත කිරීමට අපේක්ෂා කරන බවට දැනුම්දීමක්</b></a> <code>21:28:49</code></li>
-    <li><a href="News/2026-11-25/124911-Facts-revealed-in-court-that-there-was-a-close-relationship-.md"><b>අසාද් මවුලානා සහ සුරේෂ් සලේ අතර සමීප සබඳතාවයක් තිබූ බවට අධිකරණයේදී කරුණු අනාවරණය වෙයි</b></a> <code>19:45:00</code></li>
-    <li><a href="News/2026-11-25/124898-Although-Media-Must-Exercise-Its-Rights,-They-Must-Be-Subjec.md"><b>ජනමාධ්‍ය විසින් සිය අයිතිවාසිකම් පාවිච්චි කළ යුතු වුවත්, එය මූලික නීතියට යටත් විය යුතුයි - කෞෂල්‍යා ආරියරත්න</b></a> <code>19:40:00</code></li>
-    <li><a href="News/2026-11-25/124910-Full-details-of-what-happened-in-court-in-Gotabaya-Rajapaksa.md"><b>ගෝඨාභය රාජපක්ෂගේ නඩුවේ අධිකරණය හමු‍වේ සිදුවූ සම්පූර්ණ කරුණු දැක්වීම</b></a> <code>19:29:52</code></li>
-    <li><a href="News/2026-11-25/124899-We-Fought-on-the-Streets-During-a-Time-When-Salaries-Were-No.md"><b>වැටුප් වැඩි නොකරන, දීමනා ලබා නොදෙන කාලෙක අපි පාරේ සටන් කළේ; අරගලයකින් තොරව ප්‍රශ්න විසඳන ආණ්ඩුවක් දැන් නිර්මාණය කරලා තියෙනවා - චන්දන සූරියආරච්චි</b></a> <code>19:10:00</code></li>
+    <li><a href="News/2026-11-26/124938-Steps-Have-Been-Taken-to-Enter-Information-on-Cases-Being-He.md"><b>මහාධිකරණවල විභාග වෙමින් පවතින නඩු තොරතුරු වෙබ් අඩවියකට ඇතුළත් කිරීමට පියවර ගෙන තිබෙනවා - අධිකරණ ඇමති</b></a> <code>16:05:00</code></li>
+    <li><a href="News/2026-11-26/124930-Building-an-Innovation-Economy-Must-Begin-Right-in-the-Schoo.md"><b>නවෝත්පාදන ආර්ථිකයක් ගොඩනැඟීම පාසල් පන්ති කාමරයෙන්ම ඇරඹිය යුතුයි - අගමැති</b></a> <code>15:40:00</code></li>
+    <li><a href="News/2026-11-26/124931-New-Filling-Station-Constructed,-Providing-a-Solution-to-the.md"><b>ඩෙල්ෆ්ට් දූපතේ ජනතාවගේ ඉන්ධන ගැටලුවට විසඳුම් ලබා දෙමින් නව ඉන්ධන පිරවුම්හලක් ඉදි කරයි</b></a> <code>15:20:00</code></li>
+    <li><a href="News/2026-11-26/124936-Rohitha-Rajapaksa-Leaves-FCID.md"><b>රෝහිත රාජපක්ෂ FCIDයෙන් පිටව යයි</b></a> <code>14:55:00</code></li>
+    <li><a href="News/2026-11-26/124933-Further-Evidence-Hearing-in-Case-Against-Yoshitha-Rajapaksa-.md"><b>යෝෂිත රාජපක්ෂට එරෙහි නඩුවක වැඩිදුර සාක්ෂි විභාගය දෙසැම්බර් 03 වැනිදා කැඳවීමට නියෝග</b></a> <code>14:41:07</code></li>
   </ul>
 </details>
 
