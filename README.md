@@ -17,24 +17,24 @@
 
 <br><br>
 
-<a href="News/2026-11-27/124953-Suspect-arrested-for-defrauding-Rs.-1-million-by-creating-a-.md">
-  <img src="https://helakuru.sgp1.cdn.digitaloceanspaces.com/esana/images/lib/arrested2[1].jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-27/124975-Gazette-Notification-Issued-Naming-the-Port-Access-Elevated-.md">
+  <img src="https://helakuru.sgp1.cdn.digitaloceanspaces.com/esana/images/lib/port-road.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>ව්‍යාජ බැංකු වෙබ් අඩවියක් සකස් කර රුපියල් ලක්ෂ 10 ක් වංචා කළ සැකකරුවෙකු අත්අඩංගුවට</h2>
-<p><i>Suspect arrested for defrauding Rs. 1 million by creating a fake bank website</i></p>
+<h2>වරාය පිවිසුම් ගුවන් මාර්ගය අධිවේගී මාර්ගයක් බවට නම් කරමින් ගැසට් නිවේදනයක් නිකුත් කෙරේ</h2>
+<p><i>Gazette Notification Issued Naming the Port Access Elevated Highway as an Expressway</i></p>
 
 <p>
   <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-27&color=2563eb&style=flat-square" alt="Date" />
-  <img src="https://img.shields.io/static/v1?label=Time&message=08%3A40%3A00&color=16a34a&style=flat-square" alt="Time" />
+  <img src="https://img.shields.io/static/v1?label=Time&message=17%3A25%3A00&color=16a34a&style=flat-square" alt="Time" />
   <img src="https://img.shields.io/static/v1?label=Category&message=Incidents&color=ea580c&style=flat-square" alt="Category" />
-  <img src="https://img.shields.io/static/v1?label=Comments&message=0&color=9333ea&style=flat-square" alt="Comments" />
+  <img src="https://img.shields.io/static/v1?label=Comments&message=40&color=9333ea&style=flat-square" alt="Comments" />
 </p>
 
 <br>
 
 <p>
-  <a href="News/2026-11-27/124953-Suspect-arrested-for-defrauding-Rs.-1-million-by-creating-a-.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-27/124975-Gazette-Notification-Issued-Naming-the-Port-Access-Elevated-.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -44,11 +44,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-27/124951-Today-Is-the-Fifth-Day-of-the-Budget-Committee-Stage-Debate.md"><b>අයවැය කාරක සභා අවස්ථාවේ විවාදයේ පස්වෙනි දිනය අදයි</b></a> <code>08:05:00</code></li>
-    <li><a href="News/2026-11-27/124952-7-people-taken-into-custody-by-the-Navy-with-a-vessel-suspec.md"><b>මත්ද්‍රව්‍ය බවට සැක යාත්‍රාවක් සමඟ පුද්ගලයින් 07 දෙනෙක් නාවික හමුදා භාරයට</b></a> <code>07:07:58</code></li>
-    <li><a href="News/2026-11-27/124950-Today's-weather-forecast.md"><b>අද කාලගුණ නිවේදනය</b></a> <code>06:56:20</code></li>
-    <li><a href="News/2026-11-26/124949-SL-vs-IND-Sri-Lanka-A-win-by-8-wickets.md"><b>SL vs IND - ශ්‍රී ලංකා A කණ්ඩායමට කඩුලු 8 ක ජයක්</b></a> <code>22:43:28</code></li>
-    <li><a href="News/2026-11-26/124948-Asia-Cup-Rising-Stars-SL-vs-IND-Lasith-Kruspulle-scores-a-ce.md"><b>Asia Cup Rising Stars SL vs IND - ලසිත් කෘස්පුල්ලේගෙන් ශතකයක්</b></a> <code>22:09:17</code></li>
+    <li><a href="News/2026-11-27/124976-S&P-Upgrades-Sri-Lanka's-Long-Term-Foreign-and-Local-Currenc.md"><b>S&P ආයතනය විසින් ශ්‍රී ලංකාවේ දිගුකාලීන විදේශ සහ දේශීය මුදල් ‍ස්වෛරී ණය ශ්‍රේණිගත කිරීම B- දක්වා ඉහළ දමයි</b></a> <code>17:05:00</code></li>
+    <li><a href="News/2026-11-27/124973-Persons-with-Disabilities-Given-Opportunity-to-Travel-Free-o.md"><b>ආබාධ සහිත පුද්ගලයින්ට දෙසැම්බර් 03 වැනි දින මෙට්‍රෝ බස් රථ සේවාවන් හි නොමිලේ ගමන් කිරීමට අවස්ථාව</b></a> <code>16:35:00</code></li>
+    <li><a href="News/2026-11-27/124972-Recording-of-Further-Evidence-from-Gotabaya-Rajapaksa-in-the.md"><b>ලලිත්-කූගන් නඩුවට අදාළව ගෝඨාභය රාජපක්ෂගෙන් වැඩිදුර සාක්ෂි සටහන් කර ගැනීම පෙබරවාරි 12 දක්වා කල් තබයි</b></a> <code>15:55:00</code></li>
+    <li><a href="News/2026-11-27/124968-Body-Found-in-Rathgama-Identified-as-That-of-a-Former-Army-L.md"><b>රත්ගම ප්‍රදේශයේ තිබී සොයා ගත් මළසිරුර හිටපු යුද හමුදා ලුතිනන් කර්නල්වරයෙකුගේ බවට හඳුනා ගැනේ</b></a> <code>15:50:00</code></li>
+    <li><a href="News/2026-11-27/124970-French-Forensic-Investigator-to-Arrive-in-the-Island-Soon-to.md"><b>නාමල්ට එරෙහි එයාර්බස් නඩුවේ සාක්ෂි ලබාදීම සඳහා ප්‍රංශයේ වෝහාරික විමර්ශකවරියක් ඉදිරියේදී මෙරටට</b></a> <code>15:26:12</code></li>
   </ul>
 </details>
 
