@@ -17,24 +17,24 @@
 
 <br><br>
 
-<a href="News/2026-11-27/124975-Gazette-Notification-Issued-Naming-the-Port-Access-Elevated-.md">
-  <img src="https://helakuru.sgp1.cdn.digitaloceanspaces.com/esana/images/lib/port-road.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-27/124978-The-third-school-term-of-2026-ends-on-December-04th.md">
+  <img src="https://helakuru.sgp1.cdn.digitaloceanspaces.com/esana/images/lib/school-students[1].jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>වරාය පිවිසුම් ගුවන් මාර්ගය අධිවේගී මාර්ගයක් බවට නම් කරමින් ගැසට් නිවේදනයක් නිකුත් කෙරේ</h2>
-<p><i>Gazette Notification Issued Naming the Port Access Elevated Highway as an Expressway</i></p>
+<h2>2026 තෙවන පාසල් වාරය දෙසැම්බර් 04 වැනිදා අවසන්</h2>
+<p><i>The third school term of 2026 ends on December 04th</i></p>
 
 <p>
   <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-27&color=2563eb&style=flat-square" alt="Date" />
-  <img src="https://img.shields.io/static/v1?label=Time&message=17%3A25%3A00&color=16a34a&style=flat-square" alt="Time" />
+  <img src="https://img.shields.io/static/v1?label=Time&message=19%3A30%3A00&color=16a34a&style=flat-square" alt="Time" />
   <img src="https://img.shields.io/static/v1?label=Category&message=Incidents&color=ea580c&style=flat-square" alt="Category" />
-  <img src="https://img.shields.io/static/v1?label=Comments&message=40&color=9333ea&style=flat-square" alt="Comments" />
+  <img src="https://img.shields.io/static/v1?label=Comments&message=24&color=9333ea&style=flat-square" alt="Comments" />
 </p>
 
 <br>
 
 <p>
-  <a href="News/2026-11-27/124975-Gazette-Notification-Issued-Naming-the-Port-Access-Elevated-.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-27/124978-The-third-school-term-of-2026-ends-on-December-04th.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -44,11 +44,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-27/124976-S&P-Upgrades-Sri-Lanka's-Long-Term-Foreign-and-Local-Currenc.md"><b>S&P ආයතනය විසින් ශ්‍රී ලංකාවේ දිගුකාලීන විදේශ සහ දේශීය මුදල් ‍ස්වෛරී ණය ශ්‍රේණිගත කිරීම B- දක්වා ඉහළ දමයි</b></a> <code>17:05:00</code></li>
-    <li><a href="News/2026-11-27/124973-Persons-with-Disabilities-Given-Opportunity-to-Travel-Free-o.md"><b>ආබාධ සහිත පුද්ගලයින්ට දෙසැම්බර් 03 වැනි දින මෙට්‍රෝ බස් රථ සේවාවන් හි නොමිලේ ගමන් කිරීමට අවස්ථාව</b></a> <code>16:35:00</code></li>
-    <li><a href="News/2026-11-27/124972-Recording-of-Further-Evidence-from-Gotabaya-Rajapaksa-in-the.md"><b>ලලිත්-කූගන් නඩුවට අදාළව ගෝඨාභය රාජපක්ෂගෙන් වැඩිදුර සාක්ෂි සටහන් කර ගැනීම පෙබරවාරි 12 දක්වා කල් තබයි</b></a> <code>15:55:00</code></li>
-    <li><a href="News/2026-11-27/124968-Body-Found-in-Rathgama-Identified-as-That-of-a-Former-Army-L.md"><b>රත්ගම ප්‍රදේශයේ තිබී සොයා ගත් මළසිරුර හිටපු යුද හමුදා ලුතිනන් කර්නල්වරයෙකුගේ බවට හඳුනා ගැනේ</b></a> <code>15:50:00</code></li>
-    <li><a href="News/2026-11-27/124970-French-Forensic-Investigator-to-Arrive-in-the-Island-Soon-to.md"><b>නාමල්ට එරෙහි එයාර්බස් නඩුවේ සාක්ෂි ලබාදීම සඳහා ප්‍රංශයේ වෝහාරික විමර්ශකවරියක් ඉදිරියේදී මෙරටට</b></a> <code>15:26:12</code></li>
+    <li><a href="News/2026-11-27/124980-The-first-anniversary-of-the-Ditwa-disaster-will-be-commemor.md"><b>දිට්වා ව්‍යසනයේ පළමු වර්ෂ පූර්ණ අනුස්මරණ ජාතික වැඩසටහන අගමැතිනියගේ ප්‍රධානත්වයෙන් පැවැත්වෙයි</b></a> <code>19:29:32</code></li>
+    <li><a href="News/2026-11-27/124977-When-the-Fisherman-Arrives,-There-Are-No-Fish;-Perhaps-the-F.md"><b>ධීවරයා එනකොට මාළු නෑ, ධීවර App එකෙන් ධීවරයා ඉන්න තැන මාළු හොයාගෙන ද කොහෙද - රෝහිත අබේගුණවර්ධන</b></a> <code>19:00:00</code></li>
+    <li><a href="News/2026-11-27/124979-Complete-Account-Including-Statements-Made-by-Gotabaya-Rajap.md"><b>ලලිත්-කූගන් නඩුව සඳහා ගෝඨාභය රාජපක්ෂ සාක්ෂි ලබා දෙමින් සිදු කළ ප්‍රකාශ ඇතුළත් සම්පූර්ණ කරුණු දැක්වීම</b></a> <code>18:45:00</code></li>
+    <li><a href="News/2026-11-27/124974-We-Are-a-Government-That-Looks-After-the-People,-Not-a-Gover.md"><b>අපි මිනිස්සුන්ව බලාගන්න ආණ්ඩුවක්, අපි VIP අය බලාගන්න ආණ්ඩුවක් නෙවෙයි - බිමල්</b></a> <code>18:30:00</code></li>
+    <li><a href="News/2026-11-27/124971-The-Government-Thinks-State-Employees-Ask-for-a-Salary-Hike-.md"><b>රජයේ සේවකයෝ පඩි වැඩි කිරීමක් ඉල්ලන්නේ ට්‍රිප් යන්න කියලයි ආණ්ඩුව හිතාගෙන ඉන්නේ. නෑ, එයාලට තුන්වේල කන්න විදියක් නෑ - නාමල්</b></a> <code>18:00:00</code></li>
   </ul>
 </details>
 
