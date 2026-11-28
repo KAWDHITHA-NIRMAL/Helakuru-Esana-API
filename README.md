@@ -17,24 +17,24 @@
 
 <br><br>
 
-<a href="News/2026-11-28/124982-Today-is-the-sixth-day-of-the-Budget-Committee-Stage-debate.md">
-  <img src="https://helakuru.sgp1.cdn.digitaloceanspaces.com/esana/images/lib/budget-2027-nn.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-28/124985-No-Increase-in-Chicken-Prices-During-the-Festive-Season,-Egg.md">
+  <img src="https://helakuru.sgp1.cdn.digitaloceanspaces.com/esana/images/lib/chicken-new.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>අයවැය කාරක සභා අවස්ථාවේ විවාදයේ සයවැනි දිනය අදයි</h2>
-<p><i>Today is the sixth day of the Budget Committee Stage debate</i></p>
+<h2>උත්සව සමයේ කුකුළු මස් මිල ඉහළ යාමක් නැහැ, ඉල්ලුම අනුව බිත්තර මිල තීරණය වේවි - කුකුළු ව්‍යාපාරිකයින්ගේ සංගමය</h2>
+<p><i>No Increase in Chicken Prices During the Festive Season, Egg Prices Will Be Determined According to Demand - Poultry Traders' Association</i></p>
 
 <p>
   <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-28&color=2563eb&style=flat-square" alt="Date" />
-  <img src="https://img.shields.io/static/v1?label=Time&message=08%3A15%3A00&color=16a34a&style=flat-square" alt="Time" />
+  <img src="https://img.shields.io/static/v1?label=Time&message=13%3A20%3A00&color=16a34a&style=flat-square" alt="Time" />
   <img src="https://img.shields.io/static/v1?label=Category&message=Incidents&color=ea580c&style=flat-square" alt="Category" />
-  <img src="https://img.shields.io/static/v1?label=Comments&message=7&color=9333ea&style=flat-square" alt="Comments" />
+  <img src="https://img.shields.io/static/v1?label=Comments&message=64&color=9333ea&style=flat-square" alt="Comments" />
 </p>
 
 <br>
 
 <p>
-  <a href="News/2026-11-28/124982-Today-is-the-sixth-day-of-the-Budget-Committee-Stage-debate.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-28/124985-No-Increase-in-Chicken-Prices-During-the-Festive-Season,-Egg.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -44,11 +44,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-28/124981-Today's-weather-forecast.md"><b>අද කාලගුණ නිවේදනය</b></a> <code>07:25:00</code></li>
-    <li><a href="News/2026-11-27/124978-The-third-school-term-of-2026-ends-on-December-04th.md"><b>2026 තෙවන පාසල් වාරය දෙසැම්බර් 04 වැනිදා අවසන්</b></a> <code>19:30:00</code></li>
-    <li><a href="News/2026-11-27/124980-The-first-anniversary-of-the-Ditwa-disaster-will-be-commemor.md"><b>දිට්වා ව්‍යසනයේ පළමු වර්ෂ පූර්ණ අනුස්මරණ ජාතික වැඩසටහන අගමැතිනියගේ ප්‍රධානත්වයෙන් පැවැත්වෙයි</b></a> <code>19:29:32</code></li>
-    <li><a href="News/2026-11-27/124977-When-the-Fisherman-Arrives,-There-Are-No-Fish;-Perhaps-the-F.md"><b>ධීවරයා එනකොට මාළු නෑ, ධීවර App එකෙන් ධීවරයා ඉන්න තැන මාළු හොයාගෙන ද කොහෙද - රෝහිත අබේගුණවර්ධන</b></a> <code>19:00:00</code></li>
-    <li><a href="News/2026-11-27/124979-Complete-Account-Including-Statements-Made-by-Gotabaya-Rajap.md"><b>ලලිත්-කූගන් නඩුව සඳහා ගෝඨාභය රාජපක්ෂ සාක්ෂි ලබා දෙමින් සිදු කළ ප්‍රකාශ ඇතුළත් සම්පූර්ණ කරුණු දැක්වීම</b></a> <code>18:45:00</code></li>
+    <li><a href="News/2026-11-28/124987-Parliamentary-Select-Committee-Appointed-Under-the-Chairmans.md"><b>1983 කළු ජූලිය පිළිබඳ සෙවීම සඳහා සරෝජා පෝල්රාජ්ගේ සභාපතිත්වයෙන් පාර්ලිමේන්තු විශේෂ කාරක සභාවක් පත් කෙරේ</b></a> <code>12:20:00</code></li>
+    <li><a href="News/2026-11-28/124986-Police-Open-Fire-on-a-Van-in-the-Eheliyagoda-Area.md"><b>ඇහැළියගොඩ ප්‍රදේශයේදී පොලිසියෙන් වෑන් රථයකට වෙඩි ප්‍රහාරයක්</b></a> <code>11:55:00</code></li>
+    <li><a href="News/2026-11-28/124984-Official-Website-of-the-Department-of-Motor-Traffic-Restored.md"><b>මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ නිල වෙබ් අඩවිය යථා තත්ත්වයට</b></a> <code>10:10:00</code></li>
+    <li><a href="News/2026-11-28/124983-60th-Anniversary-Celebration-of-the-World-Buddhist-Sangha-Co.md"><b>ලෝක බෞද්ධ සංඝ සම්මේලනයේ 60 වන සංවත්සර උත්සවය ජනපතිවරයාගේ සහභාගීත්වයෙන් අද පැවැත්වෙයි</b></a> <code>09:30:00</code></li>
+    <li><a href="News/2026-11-28/124982-Today-is-the-sixth-day-of-the-Budget-Committee-Stage-debate.md"><b>අයවැය කාරක සභා අවස්ථාවේ විවාදයේ සයවැනි දිනය අදයි</b></a> <code>08:15:00</code></li>
   </ul>
 </details>
 
